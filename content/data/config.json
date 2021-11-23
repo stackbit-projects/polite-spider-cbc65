@@ -105,7 +105,8 @@
                 "altText": "Facebook",
                 "url": "/",
                 "showIcon": true,
-                "icon": "facebook"
+                "icon": "facebook",
+                "style": "link"
             }
         ],
         "legalLinks": [
