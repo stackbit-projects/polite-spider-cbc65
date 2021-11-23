@@ -102,7 +102,7 @@
             },
             {
                 "type": "Social",
-                "altText": "Facebook",
+                "altText": "github",
                 "url": "/",
                 "showIcon": true,
                 "icon": "github",
